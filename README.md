@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">I am Abat. I live from Turkey and I graduated from Office Management in Turkey. But I really enjoy learning programming languages ​​and frameworks. And now I love Java, SQL, Sellenium, Cucumber, API... Moreover, it will contribute to my knowledge of QA Automation Engineer, which is my field of interest.</h3>
+<h3 align="center"> I live from Turkey and I graduated from Office Management in Turkey. But I really enjoy learning programming languages ​​and frameworks. And now I love Java, SQL, Sellenium, Cucumber, API... Moreover, it will contribute to my knowledge of QA Automation Engineer, which is my field of interest.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mert6364&label=Profile%20views&color=0e75b6&style=flat" alt="mert6364" /> </p>
 
